@@ -1,6 +1,7 @@
 {
   "name": "harek-sdk",
   "version": "0.1.0",
+  "type": "module",
   "description": "Официальный комплект разработки плагинов и системных модулей для платформы Harek",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
